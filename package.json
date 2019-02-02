@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/lspgl/MN#readme",
   "dependencies": {
-    "openzeppelin-solidity": "2.1.2"
+    "openzeppelin-solidity": "2.1.2",
+    "truffle-hdwallet-provider": "^1.0.3"
   },
   "devDependencies": {},
   "description": ""

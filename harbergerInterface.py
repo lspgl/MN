@@ -158,11 +158,11 @@ if __name__ == '__main__':
 
     alpha = interface.clients['alpha']
     beta = interface.clients['beta']
-    interface.accountOverview(alpha)
-    # interface.deposit(alpha, 0.5)
-    interface.accountOverview(alpha)
-    interface.withdraw(alpha, 0.5)
-    interface.accountOverview(alpha)
-    # interface.tokenOverview()
+    # interface.accountOverview(alpha)
+    #interface.deposit(alpha, 0.5)
+    # interface.accountOverview(alpha)
+    #interface.withdraw(alpha, 0.5)
+    # interface.accountOverview(alpha)
+    interface.tokenOverview()
 
     # interface.deposit(interface.clients['alpha'], 0.001)
